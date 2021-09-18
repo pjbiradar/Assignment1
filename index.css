@@ -1,0 +1,65 @@
+.class1{
+    color: red;
+    font: size 600px;;
+    font-weight:bolder;
+    font-style: normal;
+}
+.class2{
+    color: red;
+    font-size:x-large;
+    font-weight:900;
+    font-style:italic;
+}
+.class3{
+    color: brown;
+    font-size:larger;
+    font-weight: bold;
+    
+}    
+.classa{
+    text-decoration: line-through;
+}
+.classb{
+    background-color: yellow;
+}
+.classc{
+    text-decoration: underline;
+    font-style: italic;
+}
+.classd{
+    font-style: italic;
+    color: red;
+    font-weight: bolder;
+    font-size:xx-large;
+}
+.classe{
+    color: brown;
+    letter-spacing: 5px;
+    font-size: larger;
+    font-weight: bold;
+}
+.classf{
+    background-color: yellow;
+}
+.classg{
+    color: brown;
+    font-size:medium;
+    font-weight: bold;
+}
+.classh{
+    color: brown;
+    font-size: medium;
+    font-weight: bold;
+}
+.classi{
+    color: brown;
+    font-size: medium;
+    font-weight: bold;
+}
+.classj{
+    color: brown;
+    background-color: yellow;
+    font-size: larger;
+    text-decoration: none;
+    font-style: italic;
+}
